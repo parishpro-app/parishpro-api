@@ -1,0 +1,6 @@
+@parish_ministry_scheduler_backend_HostAddress = http://localhost:5017
+
+GET {{parish_ministry_scheduler_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
